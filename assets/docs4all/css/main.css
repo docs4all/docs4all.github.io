@@ -1,0 +1,20 @@
+.slide-menu {
+    position: unset;
+}
+
+#sidebar ul ul a {
+    background: unset;
+}
+
+.slide-menu {
+    height: unset;
+}
+
+.slide-menu__decorator {
+    float: right;
+}
+
+.markdown-body pre {
+    background-color: #cce0f4;
+    border-radius: 10px;
+}
